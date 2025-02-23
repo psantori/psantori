@@ -1,11 +1,14 @@
 # Hi 👋, I'm Paolo  
 ### Old-School Nerd, Modern Tech Leader | 30 Years of Code & Curiosity  
 
-I'm Paolo, a **seasoned tech leader, software architect, and product strategist** with a passion for **scalable architectures, AI-driven solutions, and data engineering**.  
-I love **solving complex problems with simple, elegant solutions**, building **high-performing teams**, and aligning technology with business impact. 🚀  
+I'm Paolo, a **seasoned tech leader, software architect, and product strategist** with a passion for **scalable architectures, AI-driven solutions, and data engineering**. I love **solving complex problems with simple, elegant solutions**, building **high-performing teams**, and aligning technology with business impact. 🚀  
+
+<br> 
 
 ## 📞 Let's Connect!  
 Find me on **[LinkedIn](https://www.linkedin.com/in/psantori/)**.  
+
+<br> 
 
 ## 💬 Ask Me About  
 I’m always happy to chat about:  
@@ -19,12 +22,14 @@ I’m always happy to chat about:
   <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white" />
 </p>
 
+<br> 
 
 ## 🔭 Currently Working On  
 - **[Hirematic](https://hirematic.com/)** → CTO & Head of Product | Building **AI-powered omnichannel HR marketing solutions**  
 - **[Jobtome](https://jobtome.com/)** → CIO & Chief Data Officer | Leading **data-driven job search innovation**  
 - …and a bunch of **private projects** that I'll share sooner or later—stay tuned! 👀  
 
+<br> 
 
 ## 📰 Featured on Google Blog  
 Google featured my work on **AI & job search optimization**:  
