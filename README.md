@@ -10,11 +10,15 @@ Find me on **[LinkedIn](https://www.linkedin.com/in/psantori/)**.
 ## 💬 Ask Me About  
 I’m always happy to chat about:  
 
-[![GoLang Badge](https://img.shields.io/badge/-GoLang-black?style=flat&logo=Go&logoColor=white)]()  
-[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)]()  
-[![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=white)]()  
-[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=Kubernetes&logoColor=white)]()  
-[![Google Cloud Badge](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=GoogleCloud&logoColor=white)]()  
+<p align="center">
+  <img src="https://img.shields.io/badge/-GoLang-black?style=flat&logo=Go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=Kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=GoogleCloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white" />
+</p>
+
 
 ## 🔭 Currently Working On  
 - **[Hirematic](https://hirematic.com/)** → CTO & Head of Product | Building **AI-powered omnichannel HR marketing solutions**  
@@ -28,10 +32,8 @@ Google featured my work on **AI & job search optimization**:
   👉 [Read the article on Google's blog](https://cloud.google.com/customers/jobtome)  
 
 
+---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
-
----
-
-<hr>
