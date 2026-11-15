@@ -23,7 +23,7 @@ Most of what I build lives in private repositories, so the contribution graph on
   </tr>
   <tr>
     <td><b>Volunteering</b></td>
-    <td>Websites and tech for community events and non-profits, such as <a href="https://github.com/battellodipace/battellodipace.it">Battello di Pace</a> and Arona Japan Festival.</td>
+    <td>Websites and tech for community events and non-profits, such as <a href="https://github.com/battellodipace">Battello di Pace</a> and <a href="https://github.com/aronajapanfestival">Arona Japan Festival</a>.</td>
   </tr>
 </table>
 
