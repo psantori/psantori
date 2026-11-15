@@ -1,42 +1,52 @@
-# Hi 👋, I'm Paolo  
-### Old-School Nerd, Modern Tech Leader | 30 Years of Code & Curiosity  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="Paolo Santori — CTO. Engineer first." width="100%">
+</picture>
 
-I'm Paolo, a **seasoned tech leader, software architect, and product strategist** with a passion for **scalable architectures, AI-driven solutions, and data engineering**. I love **solving complex problems with simple, elegant solutions**, building **high-performing teams**, and aligning technology with business impact. 🚀  
-<br> 
+<br>
 
-## 💬 Ask Me About  
-I’m always happy to chat about:  
+I'm Paolo, CTO and Chief Data & Information Officer at [Jobtome](https://weare.jobtome.com), where I also lead [Hirematic](https://hirematic.com), our AI recruitment suite. I design the systems, build the teams, and write production code: back-end services, data pipelines and AI agents.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-GoLang-black?style=flat&logo=Go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=Kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=GoogleCloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white" />
-</p>
+Most of what I build lives in private repositories, so the contribution graph on this page says more than the repository list does.
 
-…and plenty more — just ask!
-<br> 
+## What I'm building
 
-## 📞 Let's Connect!  
-Find me on **[LinkedIn](https://www.linkedin.com/in/psantori/)**.  
-<br> 
+<table>
+  <tr>
+    <td><b><a href="https://hirematic.com">Hirematic</a></b></td>
+    <td>An AI recruitment suite that covers the hiring funnel from sourcing to interviews. Its AI recruiting product ran <b>150,000+ candidate interviews across Europe in four months</b> through LLM-powered agents and voice. Multi-tenant, event-driven back end on AWS, in Go and Python.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://weare.jobtome.com">Jobtome</a></b></td>
+    <td>A job search platform promoting <b>25M job offers a month in 34 countries</b>. I led its move to Google Cloud and run the data platform behind it. The work is featured in a <a href="https://cloud.google.com/customers/jobtome">Google Cloud customer story</a>.</td>
+  </tr>
+  <tr>
+    <td><b>Volunteering</b></td>
+    <td>Websites and tech for community events and non-profits, such as <a href="https://github.com/battellodipace">Battello di Pace</a> and <a href="https://github.com/aronajapanfestival">Arona Japan Festival</a>.</td>
+  </tr>
+</table>
 
-## 🔭 Currently Working On  
-- **[Hirematic](https://hirematic.com/)** → CTO & Head of Product | Building **AI-powered omnichannel HR marketing solutions**  
-- **[Jobtome](https://jobtome.com/)** → CIO & Chief Data Officer | Leading **data-driven job search innovation**  
-- …and a bunch of **private projects** that I'll share sooner or later—stay tuned! 👀  
-<br> 
+## What I work with
 
-## 📰 Featured on Google Blog  
-Google featured my work on **AI & job search optimization**:  
-- **"Jobtome: Taking the job search to the next level with machine learning and AI"**  
-  👉 [Read the article on Google's blog](https://cloud.google.com/customers/jobtome)  
+<table>
+  <tr><td><b>Back end</b></td><td>Go · Python · PostgreSQL · REST APIs · event-driven services</td></tr>
+  <tr><td><b>Data</b></td><td>BigQuery · Airflow · Pub/Sub · Dataflow · AVRO/Parquet</td></tr>
+  <tr><td><b>Platform</b></td><td>Kubernetes · Docker · Terraform · AWS · Google Cloud</td></tr>
+  <tr><td><b>AI</b></td><td>LLM agents · voice interfaces · AI-assisted development</td></tr>
+  <tr><td><b>Certified</b></td><td><a href="https://credly.com/users/psantori">CKA · CKAD · CKS</a></td></tr>
+</table>
 
+## A few things I believe
 
----
+- Simple architectures outlast clever ones.
+- A leader who still ships code makes better technical decisions.
+- AI belongs in production only when it is measurable and accountable.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/psantori/) · [Credly](https://credly.com/users/psantori) · Arona, Italy
+
+Outside work I volunteer with [Emergency](https://www.emergency.it), sing, and play piano.
+
+> ななころびやおき — *nana korobi ya oki*: fall seven times, stand up eight.
