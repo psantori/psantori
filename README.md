@@ -15,7 +15,7 @@ Most of what I build lives in private repositories, so the contribution graph on
 <table>
   <tr>
     <td><b><a href="https://hirematic.com">Hirematic</a></b></td>
-    <td>An AI recruitment suite that covers the hiring funnel from sourcing to interviews. Its AI recruiting product ran <b>150,000+ candidate interviews across Europe in four months</b> through LLM-powered agents and voice. Multi-tenant, event-driven back end on AWS, in Python and Go.</td>
+    <td>An AI recruitment suite that covers the hiring funnel from sourcing to interviews. Its AI recruiting product ran <b>150,000+ candidate interviews across Europe in four months</b> through LLM-powered agents and voice. Multi-tenant, event-driven back end on AWS, in Go and Python.</td>
   </tr>
   <tr>
     <td><b><a href="https://weare.jobtome.com">Jobtome</a></b></td>
@@ -30,7 +30,7 @@ Most of what I build lives in private repositories, so the contribution graph on
 ## What I work with
 
 <table>
-  <tr><td><b>Back end</b></td><td>Python · Go · PostgreSQL · REST APIs · event-driven services</td></tr>
+  <tr><td><b>Back end</b></td><td>Go · Python · PostgreSQL · REST APIs · event-driven services</td></tr>
   <tr><td><b>Data</b></td><td>BigQuery · Airflow · Pub/Sub · Dataflow · AVRO/Parquet</td></tr>
   <tr><td><b>Platform</b></td><td>Kubernetes · Docker · Terraform · AWS · Google Cloud</td></tr>
   <tr><td><b>AI</b></td><td>LLM agents · voice interfaces · AI-assisted development</td></tr>
