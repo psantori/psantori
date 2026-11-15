@@ -15,7 +15,7 @@ Most of what I build lives in private repositories, so the contribution graph on
 <table>
   <tr>
     <td><b><a href="https://hirematic.com">Hirematic</a></b></td>
-    <td>An AI recruitment suite that covers the hiring funnel from sourcing to interviews. Its AI recruiting product ran <b>150,000+ candidate interviews across Europe in four months</b> through LLM-powered agents and voice. Multi-tenant, event-driven back end on AWS, in Go and Python.</td>
+    <td>An AI recruitment suite that covers the hiring funnel from sourcing to interviews. Its AI recruiting product runs candidate interviews through LLM-powered agents and voice. Multi-tenant, event-driven back end on AWS, in Go and Python.</td>
   </tr>
   <tr>
     <td><b><a href="https://weare.jobtome.com">Jobtome</a></b></td>
