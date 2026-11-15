@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="Paolo Santori — CTO who still ships production code" width="100%">
+  <img src="assets/banner-light.svg" alt="Paolo Santori — CTO. Engineer first." width="100%">
 </picture>
 
 <br>
@@ -39,3 +39,5 @@ Most of what I build lives in private repositories, so the contribution graph on
 [LinkedIn](https://www.linkedin.com/in/psantori/) · [Credly](https://credly.com/users/psantori) · Arona, Italy
 
 Outside work I volunteer with [Emergency](https://www.emergency.it), sing, and play piano.
+
+> ななころびやおき — *nana korobi ya oki*: fall seven times, stand up eight.
