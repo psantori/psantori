@@ -40,7 +40,7 @@ Most of what I build lives in private repositories, so the contribution graph on
 ## A few things I believe
 
 - Simple architectures outlast clever ones.
-- A leader who still ships code makes better technical decisions.
+- A leader who ships code makes better technical decisions.
 - AI belongs in production only when it is measurable and accountable.
 
 ## Elsewhere
