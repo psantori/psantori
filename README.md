@@ -1,42 +1,41 @@
-# Hi 👋, I'm Paolo  
-### Old-School Nerd, Modern Tech Leader | 30 Years of Code & Curiosity  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="Paolo Santori — CTO who still ships production code" width="100%">
+</picture>
 
-I'm Paolo, a **seasoned tech leader, software architect, and product strategist** with a passion for **scalable architectures, AI-driven solutions, and data engineering**. I love **solving complex problems with simple, elegant solutions**, building **high-performing teams**, and aligning technology with business impact. 🚀  
-<br> 
+<br>
 
-## 💬 Ask Me About  
-I’m always happy to chat about:  
+I'm Paolo, CTO and Chief Data & Information Officer at [Jobtome](https://weare.jobtome.com), where I also lead [Hirematic](https://hirematic.com), our AI recruitment suite. I design the systems, build the teams, and write production code: back-end services, data pipelines and AI agents.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-GoLang-black?style=flat&logo=Go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=Kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=GoogleCloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=white" />
-</p>
+Most of what I build lives in private repositories, so the contribution graph on this page says more than the repository list does.
 
-…and plenty more — just ask!
-<br> 
+## What I'm building
 
-## 📞 Let's Connect!  
-Find me on **[LinkedIn](https://www.linkedin.com/in/psantori/)**.  
-<br> 
+| | |
+|---|---|
+| **[Hirematic](https://hirematic.com)** | An AI recruitment suite that covers the hiring funnel from sourcing to interviews. Its AI recruiting product ran **150,000+ candidate interviews across Europe in four months** through LLM-powered agents and voice. Multi-tenant, event-driven back end on AWS, in Go and Python. |
+| **[Jobtome](https://weare.jobtome.com)** | A job search platform promoting **25M job offers a month in 34 countries**. I led its move to Google Cloud and run the data platform behind it. The work is featured in a [Google Cloud customer story](https://cloud.google.com/customers/jobtome). |
+| **[Battello di Pace](https://github.com/battellodipace/battellodipace.it)** | The website for Battello di Pace, a peace boat event on Lake Maggiore. |
 
-## 🔭 Currently Working On  
-- **[Hirematic](https://hirematic.com/)** → CTO & Head of Product | Building **AI-powered omnichannel HR marketing solutions**  
-- **[Jobtome](https://jobtome.com/)** → CIO & Chief Data Officer | Leading **data-driven job search innovation**  
-- …and a bunch of **private projects** that I'll share sooner or later—stay tuned! 👀  
-<br> 
+## What I work with
 
-## 📰 Featured on Google Blog  
-Google featured my work on **AI & job search optimization**:  
-- **"Jobtome: Taking the job search to the next level with machine learning and AI"**  
-  👉 [Read the article on Google's blog](https://cloud.google.com/customers/jobtome)  
+| | |
+|---|---|
+| **Back end** | Go · Python · PostgreSQL · REST APIs · event-driven services |
+| **Data** | BigQuery · Airflow · Pub/Sub · Dataflow · AVRO/Parquet |
+| **Platform** | Kubernetes · Docker · Terraform · AWS · Google Cloud |
+| **AI** | LLM agents · voice interfaces · AI-assisted development |
+| **Certified** | [CKA · CKAD · CKS](https://credly.com/users/psantori) |
 
+## A few things I believe
 
----
+- Simple architectures outlast clever ones.
+- A leader who still ships code makes better technical decisions.
+- AI belongs in production only when it is measurable and accountable.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/psantori/) · [Credly](https://credly.com/users/psantori) · Arona, Italy
+
+Outside work I volunteer with [Emergency](https://www.emergency.it), sing, and play piano.
