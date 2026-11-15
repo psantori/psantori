@@ -12,21 +12,30 @@ Most of what I build lives in private repositories, so the contribution graph on
 
 ## What I'm building
 
-| | |
-|---|---|
-| **[Hirematic](https://hirematic.com)** | An AI recruitment suite that covers the hiring funnel from sourcing to interviews. Its AI recruiting product ran **150,000+ candidate interviews across Europe in four months** through LLM-powered agents and voice. Multi-tenant, event-driven back end on AWS, in Go and Python. |
-| **[Jobtome](https://weare.jobtome.com)** | A job search platform promoting **25M job offers a month in 34 countries**. I led its move to Google Cloud and run the data platform behind it. The work is featured in a [Google Cloud customer story](https://cloud.google.com/customers/jobtome). |
-| **[Battello di Pace](https://github.com/battellodipace/battellodipace.it)** | The website for Battello di Pace, a peace boat event on Lake Maggiore. |
+<table>
+  <tr>
+    <td><b><a href="https://hirematic.com">Hirematic</a></b></td>
+    <td>An AI recruitment suite that covers the hiring funnel from sourcing to interviews. Its AI recruiting product ran <b>150,000+ candidate interviews across Europe in four months</b> through LLM-powered agents and voice. Multi-tenant, event-driven back end on AWS, in Go and Python.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://weare.jobtome.com">Jobtome</a></b></td>
+    <td>A job search platform promoting <b>25M job offers a month in 34 countries</b>. I led its move to Google Cloud and run the data platform behind it. The work is featured in a <a href="https://cloud.google.com/customers/jobtome">Google Cloud customer story</a>.</td>
+  </tr>
+  <tr>
+    <td><b>Volunteering</b></td>
+    <td>Websites and tech for community events and non-profits, such as <a href="https://github.com/battellodipace/battellodipace.it">Battello di Pace</a> and Arona Japan Festival.</td>
+  </tr>
+</table>
 
 ## What I work with
 
-| | |
-|---|---|
-| **Back end** | Go · Python · PostgreSQL · REST APIs · event-driven services |
-| **Data** | BigQuery · Airflow · Pub/Sub · Dataflow · AVRO/Parquet |
-| **Platform** | Kubernetes · Docker · Terraform · AWS · Google Cloud |
-| **AI** | LLM agents · voice interfaces · AI-assisted development |
-| **Certified** | [CKA · CKAD · CKS](https://credly.com/users/psantori) |
+<table>
+  <tr><td><b>Back end</b></td><td>Go · Python · PostgreSQL · REST APIs · event-driven services</td></tr>
+  <tr><td><b>Data</b></td><td>BigQuery · Airflow · Pub/Sub · Dataflow · AVRO/Parquet</td></tr>
+  <tr><td><b>Platform</b></td><td>Kubernetes · Docker · Terraform · AWS · Google Cloud</td></tr>
+  <tr><td><b>AI</b></td><td>LLM agents · voice interfaces · AI-assisted development</td></tr>
+  <tr><td><b>Certified</b></td><td><a href="https://credly.com/users/psantori">CKA · CKAD · CKS</a></td></tr>
+</table>
 
 ## A few things I believe
 
